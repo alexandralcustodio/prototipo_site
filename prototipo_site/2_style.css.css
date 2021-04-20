@@ -1,0 +1,48 @@
+body {
+	background-color: black;
+	color:white;
+	font-family: lucida Calligraphy;
+	margin-top: 100px;
+	margin-left: 200px;
+	margin-right: 200px;
+	margin-bottom:100px;
+
+}
+
+h1{
+	text-align: center;
+	margin-top: 50px;
+	margin-left: 100px;
+	margin-right:100px;
+	border-style: solid;
+	border-color: yellow;
+
+}
+ h2{
+ text-align: center;
+ }
+h3{
+	text-align: center;
+}
+ 
+
+p {
+	
+	text-align: center;
+	word-spacing: 20px;
+	margin-top: 30px;
+	margin-left: 200px;
+	margin-right: 200px;
+	border-style: solid;
+	border-color: fa5f02;
+	margin-bottom: 50px;
+	
+	 }
+
+
+a {color: fc3304;
+	text-decoration: none;
+}
+table{
+	font-size: 12px;
+}
